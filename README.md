@@ -34,53 +34,28 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Mahantesh-c/Hotel-Booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Mahantesh-c/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-  </a>
+
+<a href="https://github.com/Mahantesh-c/Hotel-Booking">
+  <img src="https://img.shields.io/badge/Hotel%20Booking-Full%20Stack%20System-2ECC71?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Mahantesh-c/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Responsive%20Website-3498DB?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Mahantesh-c/transit-compass-route">
+  <img src="https://img.shields.io/badge/Transit%20Compass-Route%20Planner-F39C12?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Mahantesh-c/Health-Care-Management">
+  <img src="https://img.shields.io/badge/Health%20Care-Management%20System-E74C3C?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Mahantesh-c/Netflix">
+  <img src="https://img.shields.io/badge/Netflix-UI%20Clone-9B59B6?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
-
-<p align="center">
-  <a href="https://github.com/Mahantesh-c/transit-compass-route">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=transit-compass-route&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Mahantesh-c/Health-Care-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Health-Care-Management&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahantesh-c&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahantesh-c&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahantesh-c&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahantesh-c&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahantesh-c/Mahantesh-c/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
