@@ -1,12 +1,20 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1f4037,50:2c7744,100:134e5e&text=Mahantesh%20Chikkeri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:0f2027,100:203a43&text=Mahantesh%20Chikkeri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 </p>
 
-<!-- Black Color Typing Animation -->
+
+
+
+
+
+<!-- Typing Animation - Grey Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Building+Scalable+Web+Applications;MySQL+%7C+PostgreSQL;Clean+Code+%7C+Problem+Solver;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&center=true&vCenter=true&width=800&height=60&color=9CA3AF&color2=6B7280&color3=D1D5DB&color4=4B5563&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Building+Scalable+Web+Applications;MySQL+%7C+PostgreSQL;Clean+Code+%7C+Problem+Solver"/>
 </p>
+
+
+
 
 
 
