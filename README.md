@@ -1,11 +1,11 @@
-<!-- Animated Wave Header -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Mahantesh%20Chikkeri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1f4037,50:2c7744,100:134e5e&text=Mahantesh%20Chikkeri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Building+Scalable+Web+Applications;MySQL+%7C+PostgreSQL;Clean+Code+%7C+Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Building+Scalable+Web+Applications;MySQL+%7C+PostgreSQL;Clean+Code+%7C+Problem+Solver;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -19,53 +19,65 @@
 - 🔗 REST API Development
 - 🚀 Currently learning **Spring Boot & System Design**
 
-> **Write clean code • Build scalable systems • Keep learning**
+> **Code Smart • Build Scalable • Learn Continuously**
 
 ---
 
 ## 🧰 Tech Stack
 
-### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
-</p>
-
-### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,tailwind,mysql,postgres,git,github,vscode,postman,eclipse&perline=6"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 [Hotel-Booking](https://github.com/Mahantesh-c/Hotel-Booking)
-- 🔹 [Portfolio](https://github.com/Mahantesh-c/Portfolio)
-- 🔹 [Transit Compass Route](https://github.com/Mahantesh-c/transit-compass-route)
-- 🔹 [Health-Care Management](https://github.com/Mahantesh-c/Health-Care-Management)
-- 🔹 [Netflix Clone](https://github.com/Mahantesh-c/Netflix)
+<p align="center">
+  <a href="https://github.com/Mahantesh-c/Hotel-Booking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Mahantesh-c/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mahantesh-c/transit-compass-route">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=transit-compass-route&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Mahantesh-c/Health-Care-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahantesh-c&repo=Health-Care-Management&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahantesh-c&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahantesh-c&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahantesh-c&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahantesh-c&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahantesh-c&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahantesh-c&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahantesh-c&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahantesh-c/Mahantesh-c/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -83,7 +95,13 @@
 
 ---
 
-<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahantesh-c&label=Profile%20Views&color=2ECC71&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:134e5e,100:1f4037&section=footer"/>
 </p>
